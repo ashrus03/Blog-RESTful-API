@@ -135,5 +135,3 @@ All endpoints are prefixed with `/api/v1`.
 | `POST` | `/comments/blog/:blogId` | Add a comment to a blog post. |
 | `GET` | `/comments/blog/:blogId` | Get all comments for a blog post. |
 | `DELETE` | `/comments/:commentId` | Delete a comment by its ID. |
-
-Would you like me to create a Postman collection from these API endpoints to make testing them easier?
